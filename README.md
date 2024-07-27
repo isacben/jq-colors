@@ -10,7 +10,7 @@ Export the jq configuration variable:
 export JQ_COLORS="0;90:0;37:0;37:0;37:0;32:1;37:1;37:1;34"
 ```
 
-Print the demo.json file to see the new color scheme:
+Download and print the [demo.json](./demo.json) file to see the new color scheme:
 
 ```shell
 cat demo.json | jq
