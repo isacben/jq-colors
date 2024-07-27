@@ -27,8 +27,7 @@ export JQ_COLORS="0;90:0;37:0;37:0;37:0;32:1;37:1;37:1;34"
 ## Themes
 
 ```shell
-# default
-export JQ_COLORS="0;90:0;37:0;37:0;37:0;32:1;37:1;37:1;34"
+export JQ_COLORS="0;90:0;37:0;37:0;37:0;32:1;37:1;37:1;34" # default
 ```
 
 <img src="https://github.com/isacben/jqthemes/blob/main/img/theme0.png" width="300">
@@ -87,7 +86,4 @@ export JQ_COLORS="0;90:0;37:0;37:0;37:0;33:1;37:1;37:1;35"
 
 <img src="https://github.com/isacben/jqthemes/blob/main/img/theme9.png" width="300">
 
-### Author
-
-Isaac Benitez 
-2024
+2024. Isaac Benitez 
