@@ -1,0 +1,9 @@
+{
+  "null": null,
+  "false": false,
+  "true": true,
+  "numbers": 1982,
+  "strings": "jqthemes demo",
+  "arrays": [1, 2, 3],
+  "objects": {"key": "value"}
+}
