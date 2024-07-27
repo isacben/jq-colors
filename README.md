@@ -86,4 +86,5 @@ export JQ_COLORS="0;90:0;37:0;37:0;37:0;33:1;37:1;37:1;35"
 
 <img src="https://github.com/isacben/jqthemes/blob/main/img/theme9.png" width="300">
 
-2024. Isaac Benitez 
+Isaac Benitez  
+2024
