@@ -37,8 +37,13 @@ export JQ_COLORS="0;90:0;37:0;37:0;37:0;36:1;37:1;37:1;35"
 
 <img src="https://github.com/isacben/jqthemes/blob/main/img/theme2.png" width="300">
 
+```
+export JQ_COLORS="0;90:0;37:0;37:0;35:0;37:1;37:1;37:1;36"
+```
+
+<img src="https://github.com/isacben/jqthemes/blob/main/img/theme3.png" width="300">
 
 ### Author
 
-Isaac Benitez
+Isaac Benitez 
 2024
