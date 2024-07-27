@@ -57,7 +57,7 @@ export JQ_COLORS="0;90:0;37:0;37:0;37:0;35:1;37:1;37:1;34"
 
 <img src="https://github.com/isacben/jqthemes/blob/main/img/theme4.png" width="300">
 
-```shel
+```shell
 export JQ_COLORS="0;90:0;37:0;37:0;36:0;35:1;37:1;37:1;34"
 ```
 
@@ -74,6 +74,18 @@ export JQ_COLORS="0;90:0;37:0;37:0;37:0;33:1;37:1;37:1;34"
 ```
 
 <img src="https://github.com/isacben/jqthemes/blob/main/img/theme7.png" width="300">
+
+```shell
+export JQ_COLORS="0;90:0;37:0;37:0;37:0;36:1;37:1;37:1;34
+```
+
+<img src="https://github.com/isacben/jqthemes/blob/main/img/theme8.png" width="300">
+
+```shell
+export JQ_COLORS="0;90:0;37:0;37:0;37:0;33:1;37:1;37:1;35"
+```
+
+<img src="https://github.com/isacben/jqthemes/blob/main/img/theme9.png" width="300">
 
 ### Author
 
